@@ -45,3 +45,4 @@ Temporary Items
 *.swp
 *.jar
 *.class
+/lib/
